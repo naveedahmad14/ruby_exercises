@@ -31,11 +31,11 @@ These exercises are designed to complement the [Ruby Basic lessons](https://www.
 
 #### 8.Methods
 
-- [ ] Method Exercises
+- [x] Method Exercises
 
 #### 9.Debugging
 
-- [ ] Debugging Exercises
+- [x] Debugging Exercises
 
 #### 10.Basic Enumerables
 
